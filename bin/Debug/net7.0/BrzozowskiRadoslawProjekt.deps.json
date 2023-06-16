@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BrzozowskiRadoslawProjekt/1.0.0": {
+        "runtime": {
+          "BrzozowskiRadoslawProjekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BrzozowskiRadoslawProjekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

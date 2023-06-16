@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Radek\\BrzozowskiRadoslaw\\BrzozowskiRadoslawProjekt\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BrzozowskiRadoslawProjekt.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BrzozowskiRadoslawProjekt.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Radek\\BrzozowskiRadoslaw\\BrzozowskiRadoslawProjekt\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Radek\\BrzozowskiRadoslaw\\BrzozowskiRadoslawProjekt\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Radek\\BrzozowskiRadoslaw\\BrzozowskiRadoslawProjekt\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BrzozowskiRadoslawProjekt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BrzozowskiRadoslawProjekt.props",
+      "PackagePath": "build\\BrzozowskiRadoslawProjekt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BrzozowskiRadoslawProjekt.props",
+      "PackagePath": "buildMultiTargeting\\BrzozowskiRadoslawProjekt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BrzozowskiRadoslawProjekt.props",
+      "PackagePath": "buildTransitive\\BrzozowskiRadoslawProjekt.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,18 @@
+﻿@model List<ProductModel>
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-4">
+            <div class="card">
+                <img src="@product.ImageUrl" class="card-img-top" alt="Product">
+                <div class="card-body">
+                    <h5 class="card-title">@product.Title</h5>
+                    <p class="card-text">@product.Description</p>
+                    <a href="@product.Url" class="btn btn-primary">Przejdź</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+

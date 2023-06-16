@@ -1,0 +1,7 @@
+D:\Radek\BrzozowskiRadoslaw\BrzozowskiRadoslawProjekt\obj\Release\net7.0\PubTmp\Out\BrzozowskiRadoslawProjekt.exe
+D:\Radek\BrzozowskiRadoslaw\BrzozowskiRadoslawProjekt\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Radek\BrzozowskiRadoslaw\BrzozowskiRadoslawProjekt\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Radek\BrzozowskiRadoslaw\BrzozowskiRadoslawProjekt\obj\Release\net7.0\PubTmp\Out\BrzozowskiRadoslawProjekt.dll
+D:\Radek\BrzozowskiRadoslaw\BrzozowskiRadoslawProjekt\obj\Release\net7.0\PubTmp\Out\BrzozowskiRadoslawProjekt.deps.json
+D:\Radek\BrzozowskiRadoslaw\BrzozowskiRadoslawProjekt\obj\Release\net7.0\PubTmp\Out\BrzozowskiRadoslawProjekt.runtimeconfig.json
+D:\Radek\BrzozowskiRadoslaw\BrzozowskiRadoslawProjekt\obj\Release\net7.0\PubTmp\Out\BrzozowskiRadoslawProjekt.pdb

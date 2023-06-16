@@ -1,0 +1,41 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    min-height: 100vh;
+    min-width: 50px;
+    display: grid;
+}
+
+.header1 {
+    height: 80px;
+}
+
+.container {
+    width: 100%;
+    max-width: 2048px;
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -50px;
+    visibility: hidden;
+}
+
+.carousel-control-prev:hover,
+.carousel-control-next:hover {
+    opacity: 0.4;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(1);
+    height: 100px;
+    width: 100px;
+}
+
+.footer-basic {
+    text-align: center;
+    margin-top: auto;
+}
